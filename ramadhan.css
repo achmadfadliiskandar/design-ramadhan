@@ -58,3 +58,34 @@ font-family: 'Gothic A1', sans-serif;
     font-family: 'Dosis', sans-serif;
 font-family: 'Gothic A1', sans-serif;
 }
+.api-sholat{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 100px;
+}
+.api-judul{
+    font-family: 'Dosis', sans-serif;
+font-family: 'Gothic A1', sans-serif;
+font-size: 45px;
+font-weight:bold;
+}
+table{
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Gothic A1', sans-serif;
+    border: 1px solid whitesmoke;
+    /* color: black; */
+    width: 100%;
+    border-collapse: collapse;
+}
+table tr{
+    padding: 10px;
+    border: 1px solid whitesmoke;
+}
+tr td{
+    padding: 10px;
+    border: 1px solid whitesmoke;
+}
+span.tanggal{
+    font-size: 20px;
+}
